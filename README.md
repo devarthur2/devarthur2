@@ -1,7 +1,7 @@
 Olá! Eu sou o Arthur Furtado🙋‍♂️
 
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=devarthur2&show_icons=true&theme=dark)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?usernamedevarthur2&show_icons=true&theme=dark)
 
 Tecnologias que eu utilizo👇
 
